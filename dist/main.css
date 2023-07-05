@@ -10,6 +10,7 @@
 body{
     overflow: hidden;
     background-color: #92B8C3;
+	cursor: grab;
 }
 
 .webgl{
